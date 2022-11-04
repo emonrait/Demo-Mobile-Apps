@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/margin_10"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <include layout="@layout/header_layout" />
+
+    <TextView
+        android:id="@+id/tvHeaderLevel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_5"
+        android:gravity="center"
+        android:text="Welcome"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/sub_title_textsize_base"
+        android:textStyle="bold"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/margin_10"
+        android:layout_weight="1.2"
+        android:orientation="vertical">
+
+        <GridView
+            android:id="@+id/menuGridView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:layout_marginRight="@dimen/margin_10"
+            android:horizontalSpacing="@dimen/welcome_gridview_hs_base"
+            android:numColumns="3"
+            android:padding="@dimen/welcome_gridview_padding_base"
+            android:scrollbars="none"
+            android:verticalSpacing="@dimen/welcome_gridview_vs_base" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mobile App Demo</string>
+    <string name="menu_name">Menu Name</string>
+    <string name="on_my_watchlist">ON MY WATCHLIST</string>
+    <string name="member_name">Member Name</string>
+    <string name="raihan_mahamud_emon">Raihan Mahamud Emon</string>
+    <string name="organization">Organization</string>
+    <string name="era_infotech_ltd">ERA-InfoTech Ltd</string>
+    <string name="software_engineer_android_amp_ios"><![CDATA[Software Engineer (Android & IOS)]]></string>
+    <string name="_01816028491"><u>01816028491</u></string>
+    <string name="mobile_no_2">Mobile No-2</string>
+    <string name="_01516790441"><u>01516790441</u></string>
+    <string name="blogspot">Blogspot</string>
+    <string name="www_emonra_blogspot_com"><u>www.emonra.blogspot.com</u></string>
+    <string name="emonrait_gmail_com"><u>emonrait@gmail.com</u></string>
+    <string name="gulshan_02_dhaka_1212">Gulshan-02, Dhaka-1212</string>
+    <string name="facebook">Facebook</string>
+    <string name="address">Address</string>
+    <string name="email_id">Email</string>
+    <string name="occupation">Occupation</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="developer_information">About Me</string>
+    <string name="www_facebook_com_emon_raihan"><u>www.facebook.com/emon.raihan</u></string>
+    <string name="git_link"><u>https://github.com/emonrait</u></string>
+</resources>

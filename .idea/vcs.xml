@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BCBL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BCBe-Cash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BankAsiaSmartApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Custom-Calender" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DreamBuildersUnity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SelfOnboardingApp_BCBL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SelfOnboardingApp_SBL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bdbl-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/merchant-app-32" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/transaction" vcs="Git" />
+  </component>
+</project>
